@@ -2,8 +2,6 @@
 
 A complete hands-on repository to learn and practice **Data Analysis** step-by-step — from basic EDA to advanced projects and machine learning.
 
----
-
 #  Overview
 
 This repository is designed to help you **become a confident data analyst** by working on real datasets and solving practical problems.
@@ -13,8 +11,6 @@ Instead of just learning theory, you’ll:
 * Analyze real-world data
 * Build intuition
 * Practice like in real jobs
-
----
 
 #  Learning Path
 
@@ -29,8 +25,6 @@ Instead of just learning theory, you’ll:
 
 * Tips Dataset Analysis
 
----
-
 ## 🟡 Intermediate
 
 * Data cleaning (missing values, duplicates)
@@ -41,8 +35,6 @@ Instead of just learning theory, you’ll:
 📌 Example:
 
 * Sales & customer datasets
-
----
 
 ## 🔴 Advanced
 
@@ -55,8 +47,6 @@ Instead of just learning theory, you’ll:
 
 * Predictive analysis projects
 
----
-
 #  Tech Stack
 
 * Python 
@@ -66,7 +56,6 @@ Instead of just learning theory, you’ll:
 * Seaborn
 * Scikit-learn
 
-```
 #  Practice Approach
 
 Each project follows a structured workflow:
@@ -79,15 +68,11 @@ Each project follows a structured workflow:
 6. Feature Engineering
 7. Insights & Conclusions
 
----
-
 ##  Who This Is For
 
 * Beginners in Data Analysis
 * Students preparing for jobs
 * Self-learners building a portfolio
-
----
 
 #  Key Features
 
@@ -96,8 +81,6 @@ Each project follows a structured workflow:
 * Clean and simple code
 * Focus on analytical thinking
 * Practice questions included
-
----
 
 #  Goals
 
@@ -109,8 +92,6 @@ By the end of this repo, you will:
 * Build basic ML models
 * Think like a data analyst
 
----
-
 # ⭐ Support
 
 If you find this helpful:
@@ -118,8 +99,6 @@ If you find this helpful:
 * Star ⭐ this repository
 * Share with friends
 * Contribute improvements
-
----
 
 # 🤝 Contributing
 
@@ -129,8 +108,6 @@ You can contribute by:
 * Adding new datasets
 * Improving notebooks
 * Fixing bugs
-
----
 
 # 📌 Final Note
 
