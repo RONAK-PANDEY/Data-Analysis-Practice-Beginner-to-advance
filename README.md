@@ -1,10 +1,10 @@
-# 📊 Data Analysis Practice (Beginner to Advanced)
+#  Data Analysis Practice (Beginner to Advanced)
 
 A complete hands-on repository to learn and practice **Data Analysis** step-by-step — from basic EDA to advanced projects and machine learning.
 
 ---
 
-## 🚀 Overview
+#  Overview
 
 This repository is designed to help you **become a confident data analyst** by working on real datasets and solving practical problems.
 
@@ -16,9 +16,9 @@ Instead of just learning theory, you’ll:
 
 ---
 
-## 📚 Learning Path
+#  Learning Path
 
-### 🟢 Beginner
+## 🟢 Beginner
 
 * Data loading & inspection
 * Basic EDA (Exploratory Data Analysis)
@@ -31,7 +31,7 @@ Instead of just learning theory, you’ll:
 
 ---
 
-### 🟡 Intermediate
+## 🟡 Intermediate
 
 * Data cleaning (missing values, duplicates)
 * Handling outliers
@@ -44,7 +44,7 @@ Instead of just learning theory, you’ll:
 
 ---
 
-### 🔴 Advanced
+## 🔴 Advanced
 
 * End-to-end data analysis projects
 * Business problem solving
@@ -57,49 +57,17 @@ Instead of just learning theory, you’ll:
 
 ---
 
-## 🛠️ Tech Stack
+#  Tech Stack
 
-* Python 🐍
+* Python 
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
 * Scikit-learn
 
----
-
-## ⚙️ Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/data-analysis-practice.git
 ```
-
-2. Navigate to the folder:
-
-```bash
-cd data-analysis-practice
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ How to Use
-
-* Start from the **Beginner** folder
-* Follow notebooks or scripts step-by-step
-* Try solving practice questions on your own
-* Move to the next level only after understanding
-
----
-
-## 🧪 Practice Approach
+#  Practice Approach
 
 Each project follows a structured workflow:
 
@@ -113,7 +81,7 @@ Each project follows a structured workflow:
 
 ---
 
-## 🎯 Who This Is For
+##  Who This Is For
 
 * Beginners in Data Analysis
 * Students preparing for jobs
@@ -121,7 +89,7 @@ Each project follows a structured workflow:
 
 ---
 
-## 💡 Key Features
+#  Key Features
 
 * Beginner → Advanced progression
 * Real-world datasets
@@ -131,7 +99,7 @@ Each project follows a structured workflow:
 
 ---
 
-## 📈 Goals
+#  Goals
 
 By the end of this repo, you will:
 
@@ -143,7 +111,7 @@ By the end of this repo, you will:
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
 If you find this helpful:
 
@@ -153,7 +121,7 @@ If you find this helpful:
 
 ---
 
-## 🤝 Contributing
+# 🤝 Contributing
 
 Pull requests are welcome!
 You can contribute by:
@@ -164,7 +132,7 @@ You can contribute by:
 
 ---
 
-## 📌 Final Note
+# 📌 Final Note
 
 Consistency > Speed
 
